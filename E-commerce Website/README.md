@@ -1,0 +1,2 @@
+Welcome to the E-commerce Website! This is a basic e-commerce platform designed using HTML, CSS, and JavaScript. The website allows users to browse products, add items to the cart, and proceed to checkout. This README file provides an overview of the project structure, installation instructions, and usage guidelines.
+- Rohan Reddy
